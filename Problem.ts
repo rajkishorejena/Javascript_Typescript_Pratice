@@ -33,4 +33,14 @@
 
 // console.log(`Largest Among ${number1},${number2},${number3} is ${largestNumber}`);
 
+//// Q5: Program to Check if a Number is Odd or Even
+
+//  function CheckOddEven(input:number):string{
+//    return input%2===0? "even":"odd";
+//  }
+ 
+//  const input1 =90;
+//  const numberType = CheckOddEven(input1);
+//  console.log(`input Number ${input1} is ${numberType}`);
+
 
